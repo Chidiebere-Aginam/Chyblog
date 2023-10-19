@@ -40,8 +40,8 @@ python3 run.py
 
 ## Screen Shots
 
-![](Chyblog/img/chyblog1.png)
-![](Chyblog/img/chyblog2.png)
-![](Chyblog/img/chyblog3.png)
-![](Chyblog/img/chyblog4.png)
-![](Chyblog/img/chyblog5.png)
+![](img/chyblog1.png)
+![](img/chyblog2.png)
+![](img/chyblog3.png)
+![](img/chyblog4.png)
+![](img/chyblog5.png)
