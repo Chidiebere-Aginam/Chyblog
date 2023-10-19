@@ -40,8 +40,8 @@ python3 run.py
 
 ## Screen Shots
 
-![](https://github.com/Chidiebere-Aginam/Chyblog/img/chyblog1.png)
-![](https://github.com/Chidiebere-Aginam/Chyblog/img/chyblog2.png)
-![](https://github.com/Chidiebere-Aginam/Chyblog/img/chyblog3.png)
-![](https://github.com/Chidiebere-Aginam/Chyblog/img/chyblog4.png)
-![](https://github.com/Chidiebere-Aginam/Chyblog/img/chyblog5.png)
+![](Chyblog/img/chyblog1.png)
+![](Chyblog/img/chyblog2.png)
+![](Chyblog/img/chyblog3.png)
+![](Chyblog/img/chyblog4.png)
+![](Chyblog/img/chyblog5.png)
